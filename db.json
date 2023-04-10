@@ -1,0 +1,148 @@
+{
+    "employees": [
+        {
+            "id": 1,
+            "first_name": "Shirlene",
+            "last_name": "O'Fihily",
+            "email": "sofihily0@addtoany.com",
+            "gender": "Female",
+            "department": "Sales",
+            "position": "Operator",
+            "salary": "$215114.89",
+            "ssn": "274-97-1067",
+            "badge": "cc1fc82e-5856-4087-8c24-88043fb1a1b5"
+        },
+        {
+            "id": 2,
+            "first_name": "Rodolfo",
+            "last_name": "Peplaw",
+            "email": "rpeplaw1@mit.edu",
+            "gender": "Male",
+            "department": "Support",
+            "position": "Accountant I",
+            "salary": "$224236.19",
+            "ssn": "479-80-3343",
+            "badge": "893459b6-6d7b-47d9-8e44-4e4be1217214"
+        },
+        {
+            "id": 3,
+            "first_name": "Erik",
+            "last_name": "Ofener",
+            "email": "eofener2@yellowpages.com",
+            "gender": "Male",
+            "department": "Accounting",
+            "position": "Junior Executive",
+            "salary": "$201350.33",
+            "ssn": "456-01-2166",
+            "badge": "4d9d1416-bafb-49c4-a4c0-e46b1f6b684b"
+        },
+        {
+            "id": 4,
+            "first_name": "Elisa",
+            "last_name": "Decent",
+            "email": "edecent3@sbwire.com",
+            "gender": "Female",
+            "department": "Support",
+            "position": "Occupational Therapist",
+            "salary": "$238012.80",
+            "ssn": "615-06-4768",
+            "badge": "efbff82a-8394-48cc-bf9d-ba6b4278f49e"
+        },
+        {
+            "id": 5,
+            "first_name": "Lyndsie",
+            "last_name": "Burney",
+            "email": "lburney4@newsvine.com",
+            "gender": "Female",
+            "department": "Marketing",
+            "position": "Engineer IV",
+            "salary": "$67926.96",
+            "ssn": "209-41-5594",
+            "badge": "df6b24ae-87f0-4a9a-8e5a-8a0e69bddf6b"
+        },
+        {
+            "id": 6,
+            "first_name": "Alvira",
+            "last_name": "Ashborn",
+            "email": "aashborn5@princeton.edu",
+            "gender": "Female",
+            "department": "Services",
+            "position": "Software Test Engineer III",
+            "salary": "$68810.52",
+            "ssn": "467-17-8870",
+            "badge": "7ae64b5c-e279-458d-a250-f994b5a4f080"
+        },
+        {
+            "id": 7,
+            "first_name": "Keefer",
+            "last_name": "Philbrook",
+            "email": "kphilbrook6@seattletimes.com",
+            "gender": "Male",
+            "department": "Business Development",
+            "position": "Research Associate",
+            "salary": "$90691.98",
+            "ssn": "131-52-6131",
+            "badge": "10b876d0-52ce-4a13-a316-9aa96a82f920"
+        },
+        {
+            "id": 8,
+            "first_name": "Bentley",
+            "last_name": "Covey",
+            "email": "bcovey7@hostgator.com",
+            "gender": "Male",
+            "department": "Business Development",
+            "position": "Biostatistician I",
+            "salary": "$70667.44",
+            "ssn": "218-02-9050",
+            "badge": "a1d44e31-5769-45f3-bb08-42df36e55013"
+        },
+        {
+            "id": 9,
+            "first_name": "Alissa",
+            "last_name": "Rawstorne",
+            "email": "arawstorne8@creativecommons.org",
+            "gender": "Female",
+            "department": "Human Resources",
+            "position": "Legal Assistant",
+            "salary": "$152512.90",
+            "ssn": "446-46-3835",
+            "badge": "f29f9583-fd1a-4d21-b9fd-089e47b7584e"
+        },
+        {
+            "id": 10,
+            "first_name": "Maurise",
+            "last_name": "Caldow",
+            "email": "mcaldow9@cpanel.net",
+            "gender": "Male",
+            "department": "Engineering",
+            "position": "Business Systems Development Analyst",
+            "salary": "$93630.19",
+            "ssn": "502-89-4819",
+            "badge": "d9273db6-0c98-4991-a711-2dbf5aa72856"
+        },
+        {
+            "id": 11,
+            "first_name": "Horatia",
+            "last_name": "Esslemont",
+            "email": "hesslemonta@virginia.edu",
+            "gender": "Female",
+            "department": "Research and Development",
+            "position": "Pharmacist",
+            "salary": "$227675.60",
+            "ssn": "752-52-2514",
+            "badge": "ec2ae2b1-9576-4fbf-aec7-5c3bca01dc31"
+        },
+        {
+            "id": 12,
+            "first_name": "Camala",
+            "last_name": "Sandyfirth",
+            "email": "csandyfirthb@hubpages.com",
+            "gender": "Female",
+            "department": "Business Development",
+            "position": "Software Engineer III",
+            "salary": "$149958.67",
+            "ssn": "448-41-7012",
+            "badge": "5086354a-3ddc-4a0a-9008-422941abfa29"
+        }
+    ]
+}
