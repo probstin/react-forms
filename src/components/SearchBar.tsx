@@ -37,6 +37,8 @@ function SearchBar({ ...props }: SearchBarProps): JSX.Element {
                     </Select>
                 </FormControl>
                 {/* IDENTIFIER VALUE INPUT */}
+                {/* probably should figure out a way to dnamically render the input along with its controls.*/}
+                {/* Knowing about the 'identifierValue' name is probably too much knowledge for a 'dumb' component */}
                 <TextField
                     id="identifier-input"
                     label={props.identifierType}
