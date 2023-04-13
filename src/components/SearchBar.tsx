@@ -5,7 +5,7 @@ import InputLabel from "@mui/material/InputLabel";
 import MenuItem from "@mui/material/MenuItem";
 import Select, { SelectChangeEvent } from "@mui/material/Select";
 import TextField from "@mui/material/TextField";
-import { FieldErrors, FieldValues, FormState, UseFormHandleSubmit, UseFormRegister, useFormState } from "react-hook-form";
+import { FieldErrors, FieldValues, UseFormHandleSubmit, UseFormRegister } from "react-hook-form";
 
 export interface SearchBarProps {
     register: UseFormRegister<FieldValues>;
@@ -19,7 +19,7 @@ export interface SearchBarProps {
     isValid: boolean;
 }
 
-function SearchBar({ ...props }: SearchBarProps): JSX.Element {
+const SearchBar = ({ ...props }: SearchBarProps): JSX.Element => {
     return (
         <form onSubmit={props.handleSubmit(props.submitSearch)}>
             <Box sx={{ display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
